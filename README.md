@@ -1,3 +1,3 @@
 # Synstresser.to-leak
-Full Source Ccode Leak of https://synstresser.to/
+Full Source Code Leak of https://synstresser.to/
 
